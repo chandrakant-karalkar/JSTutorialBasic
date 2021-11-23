@@ -1,8 +1,5 @@
 // variable hoisting 1
-
-// a = 2;
-//
-// var a;
+// var a = 2;
 //
 // console.log( a );
 
