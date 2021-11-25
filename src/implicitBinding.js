@@ -7,4 +7,5 @@ var obj = {
     foo: foo
 };
 
+
 obj.foo(); // 2
